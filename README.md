@@ -8,6 +8,7 @@ Here are some things to do:
  * Learn Git
  * Learn GitHub
    * Go to `github.com`
+   * Read some documentation
 
 ## Next steps
 
